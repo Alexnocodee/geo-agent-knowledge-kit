@@ -1,0 +1,8 @@
+interface:
+  display_name: "GEO Specialist"
+  short_description: "AI visibility, GEO audits, prompts, content, citations."
+  default_prompt: "Use $geo-specialist to start a GEO audit and ask me for my domain first."
+
+policy:
+  allow_implicit_invocation: true
+

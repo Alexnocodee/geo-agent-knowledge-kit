@@ -1,0 +1,6 @@
+prompt,type,buyer_stage,market,language,commercial_intent,relevance,ai_recommendation_potential,current_coverage,priority,notes
+"What are the best [category] providers for [audience]?","best provider","solution aware","[market]","[language]",5,5,5,1,"High",""
+"What is a good alternative to [competitor]?","alternative","vendor aware","[market]","[language]",5,4,5,1,"High",""
+"Compare [brand] vs [competitor] for [use case].","comparison","vendor aware","[market]","[language]",5,5,4,1,"High",""
+"How do I solve [pain]?","problem-solution","problem aware","[market]","[language]",4,5,4,2,"Medium",""
+
